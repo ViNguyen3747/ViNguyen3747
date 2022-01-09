@@ -15,7 +15,7 @@
 
 # My Github Stats
 [![Vi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViNguyen3747&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViNguyen3747&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViNguyen3747&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 # My Daily DevCard
