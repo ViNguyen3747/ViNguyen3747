@@ -1,1 +1,22 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViNguyen3747&theme=radical)](https://github.com/anuraghazra/github-readme-stats) | <a href="https://app.daily.dev/vi_NGuyen"><img src="https://api.daily.dev/devcards/a9dfbe6ab21e48f9aff499d7582d00a8.png?r=afm" width="400" alt="Thi Kieu Vi Nguyen's Dev Card"/></a>
+# Hi there, My name is Vi Nguyen! 
+
+## I go by Vi *(pronounced as V)*. I am a Computer Science student from Angelo State University. I love building and designing web applications.
+
+# Worked with
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3 Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="SASS Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5 Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java Logo" width="50" height="50"/>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" alt="Gatsby Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="Nextjs Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="Angular Logo" width="50" height="50"/>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="ExpressJS Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" alt="Graphql Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB Logo" width="50" height="50"/>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="Material Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma Logo" width="50" height="50"/>  
+
+
+# My Github Stats
+[![Vi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViNguyen3747&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViNguyen3747&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+
+# My Daily DevCard
+<a href="https://app.daily.dev/Vi_Nguyen"><img src="https://api.daily.dev/devcards/a9dfbe6ab21e48f9aff499d7582d00a8.png?r=hfe" width="300" alt="Thi Kieu Vi Nguyen's Dev Card"/></a>
