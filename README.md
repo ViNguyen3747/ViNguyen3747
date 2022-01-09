@@ -19,4 +19,4 @@
 
 
 # My Daily DevCard
-<a href="https://app.daily.dev/Vi_Nguyen"><img src="https://api.daily.dev/devcards/a9dfbe6ab21e48f9aff499d7582d00a8.png?r=hfe" width="300" alt="Thi Kieu Vi Nguyen's Dev Card"/></a>
+<a href="https://app.daily.dev/Vi_Nguyen"><img src="https://github.com/ViNguyen3747/ViNguyen3747/blob/main/devcard.svg" width="350" alt="Vi's Dev Card"/></a>
