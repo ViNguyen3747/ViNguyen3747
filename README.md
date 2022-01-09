@@ -14,9 +14,9 @@
 
 
 # My Github Stats
-[![Vi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViNguyen3747&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViNguyen3747&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Vi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViNguyen3747&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 # My Daily DevCard
 <a href="https://app.daily.dev/Vi_Nguyen"><img src="https://github.com/ViNguyen3747/ViNguyen3747/blob/main/devcard.svg" width="350" alt="Vi's Dev Card"/></a>
