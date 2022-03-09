@@ -10,9 +10,11 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="ExpressJS Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" alt="Graphql Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB Logo" width="50" height="50"/>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="Material Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma Logo" width="50" height="50"/>  
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="Material Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind CSS Logo" width="50" height="50"/>  
 
+# Learning
 
+<img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original-wordmark.svg" alt="ThreeJS Logo" width="50" height="50"/>  
 # My Github Stats
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ViNguyen3747&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
