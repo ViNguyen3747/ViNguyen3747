@@ -14,7 +14,8 @@
 
 # Learning
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original-wordmark.svg" alt="ThreeJS Logo" width="50" height="50"/>  
+<img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original-wordmark.svg" alt="ThreeJS Logo" width="50" height="50"/>
+
 # My Github Stats
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ViNguyen3747&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
