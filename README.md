@@ -1,6 +1,6 @@
 # Hi there, My name is Vi Nguyen! 
 
-### I go by Vi *(pronounced as V)*. I am an UI Developer | a JavaScript enthusiast | in love with ReactJS | 3d modeling learner | always eager to learn, share and expand knowledge | a too-much-coffee-☕ drinker. Workout 💪 and baking 🍞 make up the other part of me.
+### I go by Vi *(pronounced as V)*. I am an UI Developer | a JavaScript enthusiast | in love with ReactJS | a 3d modeling learner | always eager to learn and expand knowledge | a too-much-coffee-☕ drinker. Workout 💪 and baking 🍞 make up the other part of me.
 
 # Worked with
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3 Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="SASS Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5 Logo" width="50" height="50"/>
